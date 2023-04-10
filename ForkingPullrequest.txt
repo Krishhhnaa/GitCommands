@@ -1,0 +1,12 @@
+1. to create a pull request we must create a fork of the existing project , this will create that project into your repository
+
+2. then clone the project on your local machine and do the needful changes that are required , once you have made all the changes into local machine then use the following commands :
+	--> git add .
+	--> git commit -m "message"
+	--> git push origin main
+
+3. this will push the changes into your repository on github 
+
+4. and now when you are done with all of this then click on create a pull request from your github repo that has been made and send the needful messages showing where exactly you have made the changes and create a pull request
+
+5. they will review your pull request and based on that it will get merged
