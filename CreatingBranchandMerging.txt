@@ -1,0 +1,13 @@
+firstly create a new branch using --> git branch kunal
+
+then come to this branch using --> git checkout kunal
+
+then do whatever things you want to do here and afer that all the changes that have been made we want to merge the changes into main/master branch
+
+to do that we will now switch to master branch using --> git checkout master
+
+then we will fetch the changes using --> git fetch
+
+then we will merge the branch using --> git merge kunal
+
+after all this we will push the changes to repo using --> git push origin master
