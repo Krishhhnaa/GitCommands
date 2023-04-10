@@ -1,0 +1,11 @@
+Basic Git Commands :
+
+1. git init --> to initialize the local folder (we tell git that now you should track this folder for any uncoming changes whatsoever)
+
+2. git status --> to check the untracked files
+
+3. git add . --> to add all the files in staging area 
+
+4. git add names.txt --> to add only this name file in staging area
+
+5. git commit -m "message" --> to commit the changes that you have made

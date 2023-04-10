@@ -1,0 +1,7 @@
+1. echo > filename.txt --> to create a file using cmd
+
+2. notepad filename.txt --> to open the file
+
+3. type filename.txt --> to see the contents of the file on cmd (like cat)
+
+4. ren oldfilename newfilename --> to rename the file
