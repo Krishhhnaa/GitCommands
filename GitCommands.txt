@@ -9,3 +9,17 @@ Basic Git Commands :
 4. git add names.txt --> to add only this name file in staging area
 
 5. git commit -m "message" --> to commit the changes that you have made
+
+6. git rm --cached filename --> to unstage the changes after git add .
+
+7. git restore --staged names.txt --> to uncommit the changes after commiting
+
+8. git log --> to see the all commits (History)
+
+9. git reset hashcode --> to unstage the changes till that commit's hashcode
+
+10. git stash --> to make the changes unstage for a while
+
+11. git stash --> to undo the above command
+
+12. git stash clear --> to clear all the unstage changes
