@@ -1,0 +1,7 @@
+1. git remote add origin https://github.com/krishhhna/repo --> to use the repo of this using our local folder
+
+2. git push origin master --> to push made changes into the repo
+
+3. git branch feature --> to create a new branch
+
+4. git checkout feature --> to select the created branch (switching)
