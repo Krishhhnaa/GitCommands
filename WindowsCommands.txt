@@ -5,3 +5,9 @@
 3. type filename.txt --> to see the contents of the file on cmd (like cat)
 
 4. ren oldfilename newfilename --> to rename the file
+
+5. prompt $g --> to make prompt like this >
+
+6. dir --> acts like ls
+
+7. del filename --> to delete a file
